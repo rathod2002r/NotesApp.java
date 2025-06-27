@@ -1,4 +1,4 @@
-# NotesApp.java
+# NotesApp
 Java console-based Notes App using FileWriter &amp; BufferedReader for persistent storage.
 import java.io.*;
 import java.util.Scanner;
